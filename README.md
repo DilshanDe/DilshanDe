@@ -17,7 +17,7 @@ You said:
 <a href="https://codepen.io/dilshan-silwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dilshan-silwa" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dilshan de silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilshan de silva" height="30" width="40" /></a>
 <a href="https://fb.com/dilshan de silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dilshan de silva" height="30" width="40" /></a>
-<a href="https://instagram.com/dilshan de silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dilshan de silva" height="30" width="40" /></a>
+<a href="https://www.instagram.com/dilshandesilwa?igsh=MTV4MnN2ZGtscGNtcA==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dilshan de silva" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
