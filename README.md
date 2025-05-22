@@ -7,7 +7,7 @@ You said:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilshande" alt="dilshande" /></a> </p>
 
-- 🌱 I’m currently learning **React Native/Flutter**
+- 🌱 I’m currently learning **React Native/Flutter/.NET**
 
 - 📫 How to reach me **dilshansilwa54@gmail.com**
 - 📫 How to reach me: **[dilshansilva.me](https://dilshansilva.me)**
