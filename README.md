@@ -134,7 +134,7 @@ Real-time messaging application built with React Native and Firebase, featuring 
 ### 📱 [Social Media App](https://github.com/DilshanDe/Social-Media-App)
 Full-featured social media platform with user profiles, post creation, like and comment systems, friend connections, and real-time feed updates. Built entirely with React Native for cross-platform compatibility.
 
-**Tech Stack:** `React Native` `Supabase` `PostgreSQL` `Real-time Subscriptions`
+**Tech Stack:** `React Native` `Supabase`  `Real-time Subscriptions`
 
 ## 📈 Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dilshande&theme=react-dark&hide_border=true)
