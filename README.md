@@ -143,7 +143,7 @@ Full-featured social media platform with user profiles, post creation, like and 
 
 <div align="center">
   
-[![Website](https://img.shields.io/badge/Website-dilshansilva.me-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dilshansilva.me)
+[![Website](https://img.shields.io/badge/Website-dilshansilva.netify.app-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dilshansilva.netlify.app/)
 [![Email](https://img.shields.io/badge/Email-dilshansilwa54@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dilshansilwa54@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dilshandesilva)
 [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/dilshan-silwa)
