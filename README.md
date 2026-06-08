@@ -37,7 +37,7 @@ class DeveloperProfile {
     public getContactInfo(): object {
         return {
             email: "dilshansilwa54@gmail.com",
-            website: "https://dilshansilva.me",
+            website: "https://dilshansilva.netlify.app/",
             linkedin: "linkedin.com/in/dilshandesilva"
         };
     }
